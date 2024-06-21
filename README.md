@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kat Mota</h1>
-<h3 align="center">A passionate fullstack developer from Cali passionate about coding, perfumes, anime, and the outdoors.</h3>
+<h3 align="center">A fullstack developer from Cali passionate about coding, perfumes, anime, and the outdoors.</h3>
 
 - 📫 How to reach me **katmmota@gmail.com**
 
