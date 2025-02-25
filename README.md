@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kat Gibson</h1>
+<h1 align="center">Hi 👋, I'm Kat Mota</h1>
 <h3 align="center">A fullstack developer from Cali on a transformative journey from a seasoned electrical utility auditor to the dynamic world of tech.
   
   My passions include delving into the world of anime, exploring the nuances of perfumes, and capturing the world through AI-enhanced photography. I’m an avid outdoor enthusiast who loves snowboarding and connecting with nature. Follow my journey as I merge my technical skills with my creative pursuits on GitHub!</h3>
 
-- 📫 How to reach me **katherinnegibson@gmail.com**
+- 📫 How to reach me **katmmota@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
